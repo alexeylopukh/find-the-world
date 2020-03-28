@@ -1,0 +1,19 @@
+{
+    "dictionary":[
+        {
+            "lang" : "ar",
+            "vesrion": 1,
+            "url": "https://raw.githubusercontent.com/alexeylopukh/find-the-world/master/dictionary/ar.json"
+        },
+        {
+            "lang" : "en",
+            "vesrion": 1,
+            "url": "https://raw.githubusercontent.com/alexeylopukh/find-the-world/master/dictionary/en.json"
+        },
+        {
+            "lang" : "ru",
+            "vesrion": 1,
+            "url": "https://raw.githubusercontent.com/alexeylopukh/find-the-world/master/dictionary/ru.json"
+        }
+    ]
+}
