@@ -1,5 +1,6 @@
 {
   "name": "en",
+  "abc": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
   "version": 1,
   "words": [
     "that",
